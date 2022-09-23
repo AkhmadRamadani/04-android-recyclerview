@@ -2,4 +2,4 @@
 
 Percobaan Pertama
 
-![Screenshot](images/ss1.png)
+<img src="images/ss1.png" alt="ss 1" style="width:200px;"/>
