@@ -9,4 +9,103 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="moo_shu_name">Easy Moo Shu Pork</string>
+    <string name="moo_shu_description">Super easy version of a delicious dish. Serve over coconut rice</string>
+    <string name="moo_shu_details"><b>Ingredients</b>
+        \n
+        2 tablespoons soy sauce
+        \n
+        1 tablespoon sesame oil
+        \n
+        1 tablespoon grated fresh ginger
+        \n
+        1 teaspoon minced garlic
+        \n
+        3/4 pound pork tenderloin, fat trimmed and pork cut into 1/4-inch strips
+        \n
+        2 tablespoons vegetable oil
+        \n
+        2 cups shredded napa cabbage
+        \n
+        1 carrot, grated
+        \n
+        salt and ground black pepper to taste
+        \n\n
+    <b>Directions</b>
+    \n
+    1. Mix soy sauce, sesame oil, ginger, and garlic in a bowl until marinade is smooth; pour into a resealable plastic bag. Add pork, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator, 1 hour to overnight
+        \n 2. Heat vegetable oil in a wok or large skillet over medium heat. Add cabbage and carrot; cook and stir for 1 to 2 minutes. Push cabbage mixture aside and add pork with marinade to middle of the skillet. Cook and stir until pork is cooked through, 3 to 4 minutes. Draw cabbage into the center of the skillet; cook and stir for 1 to 2 minutes. Season with salt and pepper.
+    </string>
+    <string name="grilled_shrimp_name">Honey Grilled Shrimp</string>
+    <string name="grilled_shrimp_description">Easy and delicious! Onions, peppers, and mushrooms are perfect when alternated with shrimp on the skewers. Just cut into bite-sized pieces and add them to the marinade with the shrimp. Serve with rice and a salad</string>
+    <string name="grilled_shrimp_details"><b>Ingredients</b>
+\n1/2 teaspoon garlic powder
+\n1/4 tablespoon ground black pepper
+\n1/3 cup Worcestershire sauce
+\n2 tablespoons dry white wine
+\n2 tablespoons Italian-style salad dressing
+\n1 pound large shrimp, peeled and deveined with tails attached
+\n1/4 cup honey
+\n1/4 cup butter, melted
+\n2 tablespoons Worcestershire sauce skewers
+    \n\n<b>Directions</b>
+\n1. In a large bowl, mix together garlic powder, black pepper, 1/3 cup Worcestershire sauce, wine, and salad dressing; add shrimp, and toss to coat. Cover, and marinate in the refrigerator for 1 hour.
+\n2. Preheat grill for high heat. Thread shrimp onto skewers, piercing once near the tail and once near the head. Discard marinade.
+\n3. In a small bowl, stir together honey, melted butter, and remaining 2 tablespoons Worcestershire sauce. Set aside for basting.
+\n4. Lightly oil grill grate. Grill shrimp for 2 to 3 minutes per side, or until opaque. Baste occasionally with the honey-butter sauce while grilling.</string>
+    <string name="sirloin_tips_name">Sirloin Tips and Mushrooms</string>
+    <string name="sirloin_tips_description">Beef sirloin cubes browned with garlic then simmered in tomato sauce and red wine until tender. Great over buttered noodles</string>
+    <string name="sirloin_tips_details"><b>Ingredients</b>
+\n3 tablespoons olive oil
+\n3 cloves garlic, minced
+\n1 1/2 pounds beef sirloin
+\n1 (16 ounce) can mushrooms, with liquid
+\n1 (8 ounce) can tomato sauce
+\nSalt to taste
+\nFreshly ground pepper, to taste
+\n3/4 cup red wine
+    \n\n<b>Directions</b>
+\n1. Cut beef into cubes. In a large skillet over medium/high heat, heat the olive oil and brown beef cubes with the garlic.
+\n2. Add mushrooms with liquid, tomato sauce, salt, pepper and red wine. Cook for 30 minutes or until beef cubes are tender. Add a little more wine while cooking if desired.
+    </string>
+    <string name="squash_casserole_name">Low Carb Yellow Squash Casserole</string>
+    <string name="squash_casserole_description">This recipe was created to use up a large amount of squash we were given. We modified an existing recipe, swapping almonds for crackers and whole cream for milk. It satisfies my husband\'s diet and tastes great</string>
+    <string name="squash_casserole_details"><b>Ingredients</b>
+\n1 tablespoon olive oil
+\n1 teaspoon butter
+\n1 small onion, chopped
+\n2 cloves garlic, minced
+\n4 cups peeled and cubed yellow squash
+\n1 teaspoon kosher salt
+\n1/2 teaspoon freshly ground black pepper
+\n1/3 cup finely chopped raw almonds
+\n1 cup shredded Colby-Monterey Jack cheese, divided
+\n1/2 cup heavy whipping cream
+\n2 eggs
+\n1/3 cup coarsely chopped roasted, salted almonds
+\n\n<b>Directions</b>
+\n1. Preheat oven to 400 degrees F (200 degrees C).
+\n2. Heat olive oil and butter in a skillet over medium-high heat; cook and stir onion and garlic in the hot oil-butter mixture until softened, about 3 minutes. Add squash, salt, and pepper; stir to combine. Cover skillet and cook, stirring occasionally, until squash is softened, about 5 minutes. Transfer squash mixture to a large bowl.
+\n3. Mix raw almonds and 1/2 cup Colby-Monterey Jack cheese together in a bowl; stir into squash mixture. Whisk cream and eggs together in a measuring cup or small bowl; stir into squash mixture. Pour squash mixture into a 9x13-inch casserole dish; top with remaining Colby-Monterey Jack cheese and roasted almonds.
+</string>
+    <string name="slow_casserole_name">White Chicken Enchilada Slow-Cooker Casserole</string>
+    <string name="slow_casserole_description">An easy, creamy chicken enchilada casserole. Slow cooking gently melds together the flavors of chicken thigh meat, cream of chicken soup, sour cream, and green chiles</string>
+    <string name="slow_casserole_details"><b>Ingredients</b>
+\n15 boneless, skinless chicken thighs or breasts
+\n1 (26 ounce) can condensed cream of chicken soup
+\n2 cloves garlic, chopped (optional)
+\n1 (16 ounce) container sour cream
+\n1 (7 ounce) can diced green chile peppers
+\n15 flour tortillas
+\n3½ cups shredded Monterey Jack cheese
+\n1 (10 ounce) can sliced black olives (optional)
+\nChives for garnish (optional)
+\nBlack pepper to taste
+    \n\n<b>Directions</b>
+\n1. Place chicken in a pot, cover with water, and bring to a boil over high heat. Continue to boil until the chicken is done, about 10 minutes. Drain, allow chicken to cool, and cut into small pieces.
+\n2. Place chicken pieces in a large bowl. Stir in soup, garlic, sour cream, and green chiles.
+\n3. Spray the inside of slow cooker lightly with non-stick cooking spray.
+\n4. Tear tortillas into pieces, and arrange half of the pieces in one overlapping layer across the bottom of the slow cooker. Arrange half of the chicken, half of the soup, and half of the cheese on top. Repeat with remaining tortillas, chicken, soup, and cheese. Top with black olives.
+\n5. Cook on Low setting for 3 to 4 hours. Top with chives.</string>
+    <string name="recipe_image_desc">recipe image</string>
 </resources>
