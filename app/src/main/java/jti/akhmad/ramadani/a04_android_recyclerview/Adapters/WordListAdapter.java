@@ -49,7 +49,7 @@ public class WordListAdapter extends
 
         public WordViewHolder(@NonNull View itemView, WordListAdapter mAdapter) {
             super(itemView);
-            wordItemView = itemView.findViewById(R.id.word);
+            wordItemView = itemView.findViewById(R.id.tvItem);
             this.mAdapter = mAdapter;
             itemView.setOnClickListener(this);
         }
